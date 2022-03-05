@@ -6,7 +6,7 @@
 2. Create "Bypass" Folder in "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod"
 3. Put backdoormenu.lua file into the folder
 4. Open Garry's Mod and join on a server/singleplayer
-5. Open Extreme Injector, choose h2l.exe and inject bypass.dll into process
+5. Open the injector of your choice (x32) , choose h2l.exe and inject bypass.dll into process
 6. Press Pos1/Home Key and look into the console
 
 # Console Commands
