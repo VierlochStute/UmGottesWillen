@@ -17,8 +17,16 @@ check_libs - Searches for ULX Libs and DarkRP Utilities
 
 check_anticheat - Searches for AntiCheats
 
--> Can detect following Anti-Cheats:
+---> Can detect following Anti-Cheats:
 
 -BetterSNTE Anti-Exploit
 
 -Cake Anti-Cheat (CAC)
+
+-Quack Anti-Cheat (QAC)
+
+-Simplac Anti-Cheat (SAC)
+
+-Screengrab Anti-Cheat
+
+-CIB Anti-Exploit
