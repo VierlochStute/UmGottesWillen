@@ -20,4 +20,5 @@ check_anticheat - Searches for AntiCheats
 -> Can detect following Anti-Cheats:
 
 -BetterSNTE Anti-Exploit
-Cake Anti-Cheat (CAC)
+
+-Cake Anti-Cheat (CAC)
