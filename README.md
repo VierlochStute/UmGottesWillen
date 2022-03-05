@@ -33,7 +33,7 @@ This menu detects the following anti-cheats:
 
 -CIB Anti-Exploit
 
-# Screenshot
+# Screenshots
 
 ![alt text](https://i.imgur.com/34w8Kqb.png)
 
