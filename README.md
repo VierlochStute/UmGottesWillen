@@ -35,4 +35,4 @@ This menu detects the following anti-cheats:
 
 # Screenshot
 
-https://i.imgur.com/34w8Kqb.png
+![alt text](https://i.imgur.com/34w8Kqb.png)
