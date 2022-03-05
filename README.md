@@ -17,7 +17,9 @@ check_libs - Searches for ULX Libs and DarkRP Utilities
 
 check_anticheat - Searches for AntiCheats
 
----> Can detect following Anti-Cheats:
+# Anti-Cheat Detection
+
+This menu detects the following anti-cheats:
 
 -BetterSNTE Anti-Exploit
 
