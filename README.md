@@ -32,3 +32,7 @@ This menu detects the following anti-cheats:
 -Screengrab Anti-Cheat
 
 -CIB Anti-Exploit
+
+# Screenshot
+
+https://i.imgur.com/34w8Kqb.png
