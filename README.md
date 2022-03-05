@@ -16,3 +16,8 @@ start_menu - Activates the basic cheat menu, which you can open with Insert
 check_libs - Searches for ULX Libs and DarkRP Utilities
 
 check_anticheat - Searches for AntiCheats
+
+-> Can detect following Anti-Cheats:
+
+-BetterSNTE Anti-Exploit
+Cake Anti-Cheat (CAC)
