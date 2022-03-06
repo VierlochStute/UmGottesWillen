@@ -21,6 +21,20 @@ player_list - Searches for Players (start the menu before you type in this)
 
 check_information [player] - Gives you specific information about the player (start the menu before you type in this)
 
+# Chat Commands
+
+/startmenu - Activates the basic cheat menu, which you can open with Insert
+
+/checklibs - Searches for ULX Libs and DarkRP Utilities
+
+/checkanticheat - Searches for AntiCheats
+
+/playerlist - Searches for Players
+
+/esp - Activates/Deactivates ESP Function
+
+/bunnyhop - Activates/Deactivates Bunnyhopping Function
+
 # Anti-Cheat Detection
 
 This menu detects the following anti-cheats:
