@@ -53,7 +53,7 @@ This menu detects the following anti-cheats:
 
 # Screenshots
 
-![alt text](https://i.imgur.com/34w8Kqb.png)
+![alt text](https://i.imgur.com/2V6WUUB.png)
 
 ![alt text](https://i.imgur.com/iAzLp0Z.png)
 
