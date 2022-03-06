@@ -17,9 +17,9 @@ check_libs - Searches for ULX Libs and DarkRP Utilities
 
 check_anticheat - Searches for AntiCheats
 
-player_list - Searches for Players
+player_list - Searches for Players (start the menu before you type in this)
 
-check_information [player] - Gives you specific information about the player
+check_information [player] - Gives you specific information about the player (start the menu before you type in this)
 
 # Anti-Cheat Detection
 
