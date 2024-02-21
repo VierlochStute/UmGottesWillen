@@ -1,5 +1,7 @@
 # Cheat and Backdoor Menu
 
+⚠️ This code serves solely for educational purposes, is poorly written, and merely aims to demonstrate how simple it is.
+
 # Instructions
 
 1. Download menu.rar and extract files on desktop
